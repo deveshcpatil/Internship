@@ -1,0 +1,150 @@
+Repository title,Repository description,Contributors count,Languages used
+dnhkng / GlaDOS,"This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",,"Python
+98.0%
+Jupyter Notebook
+2.0%"
+TheOfficialFloW / PPPwn,PPPwn - PlayStation 4 PPPoE RCE,,"Python
+66.8%
+C
+29.4%
+Makefile
+1.6%
+Assembly
+1.1%
+Other
+1.1%"
+freeCodeCamp / freeCodeCamp,freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.,"5,000+",freeCodeCamp freeCodeCamp.org
+fastfetch-cli / fastfetch,"Like neofetch, but much faster because written mostly in C.",84,"C
+92.5%
+C++
+2.3%
+Objective-C
+2.2%
+CMake
+2.2%
+Shell
+0.8%"
+hydralauncher / hydra,Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.,,"TypeScript
+97.5%
+Python
+1.9%
+Other
+0.6%"
+TracecatHQ / tracecat,"😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.",,"TypeScript
+59.0%
+Python
+39.3%
+Other
+1.7%"
+coollabsio / coolify,An open-source & self-hostable Heroku / Netlify / Vercel alternative.,3,coollabsio coolLabs
+dylanaraps / neofetch,🖼️ A command-line system information tool written in bash 3.2+,,"Shell
+96.7%
+Roff
+3.2%
+Makefile
+0.1%"
+ItzCrazyKns / Perplexica,Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI,2,"TypeScript
+98.8%
+Other
+1.2%"
+Orange-OpenSource / hurl,"Hurl, run and test HTTP requests with plain text.",1,hurl
+pagefaultgames / pokerogue,-----,,"TypeScript
+98.5%
+PowerShell
+0.7%
+PLSQL
+0.5%
+JavaScript
+0.1%
+HTML
+0.1%
+CSS
+0.1%"
+penpot / penpot,Penpot: The open-source design tool for design and code collaboration,152,"Clojure
+71.7%
+JavaScript
+19.9%
+SCSS
+6.4%
+HTML
+0.9%
+Shell
+0.4%
+Java
+0.3%
+Other
+0.4%"
+yangshun / tech-interview-handbook,💯 Curated coding interview preparation materials for busy software engineers,157,yangshun Yangshun Tay
+Dokploy / dokploy,"Open Source Alternative to Vercel, Netlify and Heroku.",,"TypeScript
+99.1%
+Other
+0.9%"
+codecrafters-io / build-your-own-x,Master programming by recreating your favorite technologies from scratch.,,-----
+xlang-ai / OSWorld,OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments,15,"Python
+98.9%
+JavaScript
+1.1%"
+NaiboWang / EasySpider,A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。,,"JavaScript
+47.9%
+Python
+25.2%
+HTML
+12.9%
+CSS
+11.6%
+Vue
+1.9%
+Batchfile
+0.2%
+Other
+0.3%"
+trimstray / the-book-of-secret-knowledge,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",,
+pytorch / executorch,"On-device AI across mobile, embedded and edge for PyTorch",,"C++
+48.6%
+Python
+38.1%
+Objective-C++
+5.0%
+Starlark
+3.3%
+CMake
+1.2%
+Shell
+1.0%
+Other
+2.8%"
+kelseyhightower / kubernetes-the-hard-way,Bootstrap Kubernetes the hard way. No scripts.,,-----
+MagicMirrorOrg / MagicMirror,"MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",,MichMich Michael Teeuw
+aptos-labs / aptos-core,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,,"Rust
+57.9%
+Move
+34.8%
+TypeScript
+4.5%
+Python
+1.7%
+HCL
+0.6%
+Shell
+0.3%
+Other
+0.2%"
+idk10-a / aviator,Level up your Aviator game! This bot employs its prediction prowess to help you maximize your profit – and it's completely free!,-----,-----
+FRRouting / frr,The FRRouting Protocol Suite,,"C
+70.5%
+Python
+27.4%
+Perl
+0.7%
+M4
+0.5%
+C++
+0.3%
+Shell
+0.2%
+Other
+0.4%"
+mdn / content,The content behind MDN Web Docs,"4,275","Markdown
+99.9%
+Other
+0.1%"
